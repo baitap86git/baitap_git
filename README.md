@@ -1,12 +1,2 @@
-# Du an Git
-Dong commit moi
-Dong commit moi
-Dong commit moi
-Dong commit moi
-Dong commit moi
-Dong commit moi
- branch3
-day la commmit thu 6
-
-day la noi dung moi 
- branch1
+Tổng kết: Đã hoàn thành 17 commit, tạo và merge 3 nhánh thành công.
+Git và AI: Tôi dùng Git để quản lý phiên bản code, lưu lại các thay đổi quan trọng để dễ khôi phục nếu làm việc với AI gặp lỗi.
